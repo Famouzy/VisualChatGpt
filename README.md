@@ -18,7 +18,7 @@ Also, u can change local ip address for you want, or make that url public (Need 
 If you take some errors, open the new issues, and i try to help you.
 ## Run commands
 p.s.This is a quick guide, and there will be no explanation or description of the purpose of individual AI models here
-You can also use different startup parameters for different needs ( just edit `run.bat`), for example:
+You can also use different startup parameters for different needs ( just edit `Run.bat`), for example:
 1. For CPU users `--load ImageCaptioning_cpu,Text2Image_cpu`
 2. For GPU users `--load "ImageCaptioning_cuda:0,Text2Image_cuda:0"`
 3. Run on gpu and enabled more models `--load "Text2Box_cuda:0,Segmenting_cuda:0,Inpainting_cuda:0,ImageCaptioning_cuda:0"`

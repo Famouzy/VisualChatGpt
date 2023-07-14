@@ -6,7 +6,7 @@ Instructions for installing from scratch, follow step by step to get everything 
 
 1. Install the `Python`.
 2. Install `Nvidia Cuda version 11.8`.
-3. Install `Anaconda`.
+3. Install `Anaconda` (optional).
 4. Edit file `Setup.bat`, and change `set OPENAI_API_KEY={Your_Private_Openai_Key}` for your ChatGpt Api Key.
 5. Run `Setup.bat`.
 6. After Finish setup, run `Run.bat`.

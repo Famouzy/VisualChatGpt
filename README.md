@@ -15,7 +15,7 @@ Instructions for installing from scratch, follow step by step to get everything 
 Then, u can see message like `Running on local URL:  http://0.0.0.0:7861` - this is the IP, and you can navigate to it to work with the AI. You may have to add `127.0.0.1` instead of `0.0.0.0.`
 Also, u can change local ip address for you want, or make that url public (Need edit `visual_chatgpt.py`).
 
-#Run commands
+## Run commands
 p.s.This is a quick guide, and there will be no explanation or description of the purpose of individual AI models here
 You can also use different startup parameters for different needs ( just edit `run.bat`), for example:
 1. For CPU users `--load ImageCaptioning_cpu,Text2Image_cpu`
@@ -50,5 +50,5 @@ Here we list the GPU memory usage of each visual foundation model, you can speci
 | NormalText2Image       | 3529            |
 | VisualQuestionAnswering| 1495            |
 
-##Further and additional information about visual chat gpt can be found at the link below.
+## Further and additional information about visual chat gpt can be found at the link below.
 (c) Microsoft - https://github.com/microsoft/TaskMatrix

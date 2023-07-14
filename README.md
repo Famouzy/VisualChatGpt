@@ -10,7 +10,7 @@ Instructions for installing from scratch, follow step by step to get everything 
 3. Install `Anaconda`.
 4. Edit file `Setup.bat`, and change `set OPENAI_API_KEY={Your_Private_Openai_Key}` for your ChatGpt Api Key.
 5. Run `Setup.bat`.
-6. After Finish setup, run `run.bat`.
+6. After Finish setup, run `Run.bat`.
 
 Then, u can see message like `Running on local URL:  http://0.0.0.0:7861` - this is the IP, and you can navigate to it to work with the AI. You may have to add `127.0.0.1` instead of `0.0.0.0.`
 Also, u can change local ip address for you want, or make that url public (Need edit `visual_chatgpt.py`).

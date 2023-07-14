@@ -1,6 +1,6 @@
-# VisualChatGpt
+# Visual ChatGpt
 For use Visual Chat Gpt need a API key and billing account.
-This is a repository of the original TaskMatrix, with slightly edited source code, and also, supplemented with a more detailed guide to installing and running it. It will be updated.
+This is a repository of the original TaskMatrix, with edited source code, and also, supplemented with a more detailed guide to installing and running it. It will be updated.
 ## Guide for Windows
 Instructions for installing from scratch, follow step by step to get everything working for you:
 

@@ -51,4 +51,8 @@ Here we list the GPU memory usage of each visual foundation model, you can speci
 | VisualQuestionAnswering| 1495            |
 
 ## Further and additional information about visual chat gpt can be found at the link below.
+<<<<<<< HEAD
 (c) Microsoft - https://github.com/microsoft/TaskMatrix
+=======
+(c) Microsoft - https://github.com/microsoft/TaskMatrix
+>>>>>>> 3c4e2bbb333b61c64da3706a2f8c512b74736b55

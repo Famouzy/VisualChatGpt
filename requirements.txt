@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 langchain
 torch
 torchvision
@@ -29,3 +30,36 @@ transformers
 webdataset
 yapf
 Cython
+=======
+langchain
+torch
+torchvision
+wget
+accelerate
+addict
+albumentations
+basicsr
+controlnet-aux
+diffusers
+einops
+gradio
+imageio
+imageio-ffmpeg
+invisible-watermark
+kornia
+numpy
+omegaconf
+open_clip_torch
+openai
+opencv-python
+prettytable
+safetensors
+streamlit
+test-tube
+timm
+torchmetrics
+transformers
+webdataset
+yapf
+Cython
+>>>>>>> Stashed changes

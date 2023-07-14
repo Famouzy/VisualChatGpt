@@ -1,4 +1,4 @@
-# visualChatGpt
+# VisualChatGpt
 For use Visual Chat Gpt need a API key and billing account.
 This is a slightly edited and expanded repository of the original TaskMatrix with a more detailed and extensive description for use and installation.
 

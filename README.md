@@ -12,9 +12,10 @@ Instructions for installing from scratch, follow step by step to get everything 
 5. Run `Setup.bat`.
 6. After Finish setup, run `Run.bat`.
 
-Then, u can see message like `Running on local URL:  http://0.0.0.0:7861` - this is the IP, and you can navigate to it to work with the AI. You may have to add `127.0.0.1` instead of `0.0.0.0.`
+Then, if Visual ChatGpt started successfully, you can see message like `Running on local URL:  http://0.0.0.0:7861` - this is the IP, and you can navigate to it to work with the AI. You may have to add `127.0.0.1` instead of `0.0.0.0.`
 Also, u can change local ip address for you want, or make that url public (Need edit `visual_chatgpt.py`).
 
+If you take some errors, open the new issues, and i try to help you.
 ## Run commands
 p.s.This is a quick guide, and there will be no explanation or description of the purpose of individual AI models here
 You can also use different startup parameters for different needs ( just edit `run.bat`), for example:
